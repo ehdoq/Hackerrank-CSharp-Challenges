@@ -1,0 +1,16 @@
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\bin\Debug\net5.0\Ders01.exe
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\bin\Debug\net5.0\Ders01.deps.json
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\bin\Debug\net5.0\Ders01.runtimeconfig.json
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\bin\Debug\net5.0\Ders01.runtimeconfig.dev.json
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\bin\Debug\net5.0\Ders01.dll
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\bin\Debug\net5.0\ref\Ders01.dll
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\bin\Debug\net5.0\Ders01.pdb
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\obj\Debug\net5.0\Ders01.csproj.AssemblyReference.cache
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\obj\Debug\net5.0\Ders01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\obj\Debug\net5.0\Ders01.AssemblyInfoInputs.cache
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\obj\Debug\net5.0\Ders01.AssemblyInfo.cs
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\obj\Debug\net5.0\Ders01.csproj.CoreCompileInputs.cache
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\obj\Debug\net5.0\Ders01.dll
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\obj\Debug\net5.0\ref\Ders01.dll
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\obj\Debug\net5.0\Ders01.pdb
+C:\Users\Cihan Gedik\Documents\cSharp101\Ders01\obj\Debug\net5.0\Ders01.genruntimeconfig.cache
