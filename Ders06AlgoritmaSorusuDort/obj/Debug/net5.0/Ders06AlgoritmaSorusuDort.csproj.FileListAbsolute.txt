@@ -1,0 +1,16 @@
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/bin/Debug/net5.0/Ders06AlgoritmaSorusuDort
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/bin/Debug/net5.0/Ders06AlgoritmaSorusuDort.deps.json
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/bin/Debug/net5.0/Ders06AlgoritmaSorusuDort.runtimeconfig.json
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/bin/Debug/net5.0/Ders06AlgoritmaSorusuDort.runtimeconfig.dev.json
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/bin/Debug/net5.0/Ders06AlgoritmaSorusuDort.dll
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/bin/Debug/net5.0/ref/Ders06AlgoritmaSorusuDort.dll
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/bin/Debug/net5.0/Ders06AlgoritmaSorusuDort.pdb
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/obj/Debug/net5.0/Ders06AlgoritmaSorusuDort.csproj.AssemblyReference.cache
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/obj/Debug/net5.0/Ders06AlgoritmaSorusuDort.GeneratedMSBuildEditorConfig.editorconfig
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/obj/Debug/net5.0/Ders06AlgoritmaSorusuDort.AssemblyInfoInputs.cache
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/obj/Debug/net5.0/Ders06AlgoritmaSorusuDort.AssemblyInfo.cs
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/obj/Debug/net5.0/Ders06AlgoritmaSorusuDort.csproj.CoreCompileInputs.cache
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/obj/Debug/net5.0/Ders06AlgoritmaSorusuDort.dll
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/obj/Debug/net5.0/ref/Ders06AlgoritmaSorusuDort.dll
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/obj/Debug/net5.0/Ders06AlgoritmaSorusuDort.pdb
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorusuDort/obj/Debug/net5.0/Ders06AlgoritmaSorusuDort.genruntimeconfig.cache

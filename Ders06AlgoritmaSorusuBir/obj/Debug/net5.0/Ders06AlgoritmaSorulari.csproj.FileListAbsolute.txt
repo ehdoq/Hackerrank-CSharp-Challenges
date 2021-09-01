@@ -1,0 +1,16 @@
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/obj/Debug/net5.0/Ders06AlgoritmaSorulari.csproj.AssemblyReference.cache
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/obj/Debug/net5.0/Ders06AlgoritmaSorulari.GeneratedMSBuildEditorConfig.editorconfig
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/obj/Debug/net5.0/Ders06AlgoritmaSorulari.AssemblyInfoInputs.cache
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/obj/Debug/net5.0/Ders06AlgoritmaSorulari.AssemblyInfo.cs
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/obj/Debug/net5.0/Ders06AlgoritmaSorulari.csproj.CoreCompileInputs.cache
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/bin/Debug/net5.0/Ders06AlgoritmaSorulari
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/bin/Debug/net5.0/Ders06AlgoritmaSorulari.deps.json
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/bin/Debug/net5.0/Ders06AlgoritmaSorulari.runtimeconfig.json
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/bin/Debug/net5.0/Ders06AlgoritmaSorulari.runtimeconfig.dev.json
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/bin/Debug/net5.0/Ders06AlgoritmaSorulari.dll
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/bin/Debug/net5.0/ref/Ders06AlgoritmaSorulari.dll
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/bin/Debug/net5.0/Ders06AlgoritmaSorulari.pdb
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/obj/Debug/net5.0/Ders06AlgoritmaSorulari.dll
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/obj/Debug/net5.0/ref/Ders06AlgoritmaSorulari.dll
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/obj/Debug/net5.0/Ders06AlgoritmaSorulari.pdb
+/home/mustafa/Masaüstü/cSharp101/Ders06AlgoritmaSorulari/obj/Debug/net5.0/Ders06AlgoritmaSorulari.genruntimeconfig.cache
