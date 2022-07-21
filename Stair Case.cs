@@ -14,19 +14,12 @@ using System;
 
 class Result
 {
-
-    /*
-     * Complete the 'staircase' function below.
-     *
-     * The function accepts INTEGER n as parameter.
-     */
-
-    public static void staircase(int n)
+    public static void StairCase(int n)
     {
         int bosluk = n, kare = 0;
         for(int i = 0; i < n; i++)
         {
-            bosluk = n - (i + 1);//bosluk--;
+            bosluk = n - (i + 1);
             for(int j = 0; j < bosluk; j++)
             {
                 Console.Write(" ");
@@ -41,20 +34,21 @@ class Result
         }
     }
  
-    public static void staircase_2(int n)
+    public static void StairCase2(int n)
     {
         for (int i = 1; i <= n; i++)
         {
             Console.WriteLine(new String(' ', n - i) + new String('#', i));
         }
     }
-    public static void staircase_3(int n)
+    
+    public static void StairCase3(int n)
     {
         for (int i = 1; i <= n; i++)
         {
             var bosluk = new String(' ', n - i);
             var kare = new String('#', i);
-            WriteLine(spaces + hashes);
+            Console.WriteLine(bosluk + kare);
         }
     }
 }
@@ -65,6 +59,6 @@ class Solution
     {
         int n = Convert.ToInt32(Console.ReadLine().Trim());
 
-        Result.staircase(n);
+        Result.StairCase(n);
     }
 }
