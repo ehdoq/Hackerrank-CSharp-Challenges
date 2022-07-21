@@ -14,29 +14,21 @@ using System;
 
 class Result
 {
-
-    /*
-     * Complete the 'timeConversion' function below.
-     *
-     * The function is expected to return a STRING.
-     * The function accepts STRING s as parameter.
-     */
-
     public static string timeConversion(string s)
     {
-        var amMiPmMi = s.Substring(8);
+        var am_Mi_Pm_Mi = s.Substring(8);
         var saat = s.Substring(0, 2);
         var dakikaVeSaniye = s.Substring(2, 6);
-        if (amMiPmMi == "AM" && saat == "12")
+        if (am_Mi_Pm_Mi == "AM" && saat == "12")
         {
             saat = "00";
         }
-        else if (amMiPmMi == "PM")
+        else if (am_Mi_Pm_Mi == "PM")
         {
-            var saatDonusturme = int.Parse(saat);
-            if (saatDonusturme != 12)
+            var saatDonustur = int.Parse(saat);
+            if (saatDonustur != 12)
             {
-                saat = Convert.ToString(12 + saatDonusturme);
+                saat = Convert.ToString(12 + saatDonustur);
             }
         }
         return (saat + dakikaVeSaniye);
